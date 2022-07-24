@@ -1,5 +1,5 @@
 # LINUX
-O repositório reuni minhas anotações de estudos independentes sobre LINUX e principalmente anotações das aulas do curso de Linux para Programadores ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - campus Jaguaruana e  ministrada pelo Prof. Joari Santiago Lima Filho.
+O repositório reuni minhas anotações de estudos independentes sobre LINUX e principalmente anotações das aulas do curso de Linux para Programadores ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - campus Jaguaruana e  ministrada pelo Prof. Joari Santiago Lima Filho. Os tópicos 11 á 15 apresentam exemplos de shell script relacionados a cada tema.
 
 ## Conteúdo:
 ### 01 Introdução ao Shell - BASH
